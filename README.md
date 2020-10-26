@@ -12,8 +12,8 @@ $ cd hire-help
 
 ### 2.Install MongoDB
 
-Download it from here: https://docs.mongodb.com/manual/administration/install-community/  
-Create your own collection and add that in mongoose.connect()
+- Download it from here: https://docs.mongodb.com/manual/administration/install-community/  
+- Create your own collection and add that in mongoose.connect()
 
 ### 3.Run Backend
 ```a
